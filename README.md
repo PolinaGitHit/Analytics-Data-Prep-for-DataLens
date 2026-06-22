@@ -172,6 +172,7 @@ python src/task2-roi/task2_roi.py "src/task2-roi/Тестовое маркето
 
 # Задача 3 — консолидация CSV
 python src/task3-consolidate/task3_consolidate.py
+```
 
 ---
 
