@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cursor
+.cursor/
+plan/
+agent-transcripts/
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific logs
+*.log
+
+docs/
