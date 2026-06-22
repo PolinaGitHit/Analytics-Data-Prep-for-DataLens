@@ -86,9 +86,9 @@ python task2-roi/task2_roi.py "task2-roi/Тестовое маркетологу
 
 ## 🔗 Ссылки
 
-- **Yandex DataLens Dashboard:** [https://datalens.yandex/yiw6ebz4myxyh](https://datalens.yandex/yiw6ebz4myxyh)
-- **Google Sheets (исходные данные):** [ссылка](https://docs.google.com/spreadsheets/d/1EyfC7x54fOBPAc8XJSNBQc7bxweiMrUNfIGYE_kPp-w/edit)
-- **GitHub:** [Polina Chervina](https://github.com/polinagithit)
+- [**Yandex DataLens Dashboard**](https://datalens.yandex/yiw6ebz4myxyh)
+- [**Google Sheets**](https://docs.google.com/spreadsheets/d/1EyfC7x54fOBPAc8XJSNBQc7bxweiMrUNfIGYE_kPp-w/edit)
+- [**GitHub**](https://github.com/polinagithit)
 
 ---
 
