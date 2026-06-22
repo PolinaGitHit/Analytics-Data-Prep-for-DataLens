@@ -1,13 +1,6 @@
-# Сопроводительное письмо
+# Краткое описание проекта
 
-**Кому:** `hr@radelta.net`  
-**Тема:** Тестовое 
-**Media buyer:** Полина Червина
----
-
-## Уважаемая команда RaDelta!
-
-Представляю вам результаты комплексного аналитического тестового задания для позиции **Media buyer**. В ходе работы проведён сквозной анализ рекламной кампании — от валидации CPC-ставок до расчёта полной ROI-воронки и консолидации мультиформатных данных. Все вычисления выполнены на **Python 3.10+** с использованием **исключительно стандартной библиотеки** — без единой внешней зависимости. А так же построенны отчёты в Google Sheet (расчёты и исходные данные) с применением BI системы Yandex Datalens.
+В ходе работы проведён сквозной анализ рекламной кампании — от валидации CPC-ставок до расчёта полной ROI-воронки и консолидации мультиформатных данных. Все вычисления выполнены на **Python 3.10+** с использованием **исключительно стандартной библиотеки** — без единой внешней зависимости. А так же построенны отчёты в Google Sheet (расчёты и исходные данные) с применением BI системы Yandex Datalens.
 
 ---
 
@@ -35,17 +28,17 @@
 
 ### Сопутствующие материалы
 
-| Ресурс | Ссылка |
-|--------|--------|
+
+| Ресурс                                           | Ссылка                                                                                                                       |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
 | **GitHub** — исходный код всех скриптов (Python) | [github.com/PolinaGitHit/Analytics-Data-Prep-for-DataLens](https://github.com/PolinaGitHit/Analytics-Data-Prep-for-DataLens) |
-| **Yandex DataLens** — интерактивный дашборд | [datalens.yandex.cloud/yiw6ebz4myxyh](https://datalens.yandex.cloud/yiw6ebz4myxyh) |
-| **Задача 1** — исходные данные | [Google Sheets](https://docs.google.com/spreadsheets/d/1Mvx8EbT2rlrOyzcYsv4ijaj-C3mfwWK1_Mv8hS83fis/edit) |
-| **Задача 2** — исходные данные | [Google Sheets](https://docs.google.com/spreadsheets/d/1sNVOiKeqyHTdPclIxkhjYF3J1ocY8bcoc2N0liZSRGs/edit) |
-| **Задача 3** — исходные данные | [Google Sheets](https://docs.google.com/spreadsheets/d/11L3zlB4OPajpJoygDvLRxdXYuQpIhOOG22eY98isO3Q/edit) |
+| **Yandex DataLens** — интерактивный дашборд      | [datalens.yandex.cloud/yiw6ebz4myxyh](https://datalens.yandex.cloud/yiw6ebz4myxyh)                                           |
+| **Задача 1** — исходные данные                   | [Google Sheets](https://docs.google.com/spreadsheets/d/1Mvx8EbT2rlrOyzcYsv4ijaj-C3mfwWK1_Mv8hS83fis/edit)                    |
+| **Задача 2** — исходные данные                   | [Google Sheets](https://docs.google.com/spreadsheets/d/1sNVOiKeqyHTdPclIxkhjYF3J1ocY8bcoc2N0liZSRGs/edit)                    |
+| **Задача 3** — исходные данные                   | [Google Sheets](https://docs.google.com/spreadsheets/d/11L3zlB4OPajpJoygDvLRxdXYuQpIhOOG22eY98isO3Q/edit)                    |
+
 
 ---
-
-### О себе
 
 В ходе выполнения задания продемонстрированы навыки:
 
@@ -54,8 +47,5 @@
 - **BI-инструменты** — подготовка данных для Google Sheets, Yandex DataLens
 - **Внимание к деталям** — обработка региональных форматов данных, нормализация валют и единиц измерения
 
-
 ---
 
-С уважением,  
-**Полина Червина**
