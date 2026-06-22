@@ -26,7 +26,7 @@ uploads/
 .DS_Store
 Thumbs.db
 
-# Project specific logs
+# Project specific
 *.log
-
 docs/
+plan(arhiv)/
