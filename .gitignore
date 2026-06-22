@@ -28,5 +28,5 @@ Thumbs.db
 
 # Project specific
 *.log
-#docs/
-plan(arhiv)/
+arhiv/
+plan/
